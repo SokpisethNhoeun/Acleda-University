@@ -31,9 +31,7 @@ position: relative;
 .content-fluid > .content2 > ul > li > a:hover {
   text-decoration: underline;
 }
-.content-fluid> .content2>.icon> a:hover{
-  border: 1px solid white;
-  } 
+
 .content-fluid > .content2 > p {
   font-size: 12px;
   position: absolute;
