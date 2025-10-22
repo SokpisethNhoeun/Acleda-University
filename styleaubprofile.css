@@ -1,0 +1,82 @@
+.content-big {
+    width: 60%;
+
+    margin-top: 180px;
+    
+}
+.content-small {
+    width: 40%;
+    height: 17%;
+    margin-top: 180px;
+}
+.content {
+    display: flex;
+}
+.content2 {
+width: 60%;
+position: relative;
+ background-color: #091521;
+}
+.content-fluid > .content2 > ul {
+   
+  background-color: #001f3f;
+  display: flex;
+  padding : 90px 30px 120px 30px;
+  justify-content: space-between;
+  
+}
+.content-fluid > .content2 > ul > li {
+  font-size: 12px;
+}
+.content-fluid > .content2 > ul > li > a:hover {
+  text-decoration: underline;
+}
+.content-fluid> .content2>.icon> a:hover{
+  border: 1px solid white;
+  } 
+.content-fluid > .content2 > p {
+  font-size: 12px;
+  position: absolute;
+  margin-left: 43%;
+  margin-top: -70px;
+}
+.content-fluid > .content > .content-small > ul {
+    width: 75%;
+    background-color: #1a1f2c;
+    margin-top: 10%;
+}
+.content-fluid > .content > .content-small > ul > li > a {
+    color: #a3d4ff;
+}
+.content-fluid > .content > .content-small > ul > li {
+padding: 20px 0px 0px 20px ;
+}
+.content-fluid > .content > .content-small > ul > li > a:hover {
+    text-decoration: underline;
+}
+.content-fluid > .content > .content-small {
+   margin-left: 80px;
+    justify-content: center;
+}
+.content-fluid > .content > .content-big > ul > li {
+justify-content: start;
+text-align: start;
+}
+  h2 {
+    color: gold;
+    font-family:sans-serif;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+ .para {
+    padding: 10px 0 5px;
+    text-align: justify;
+    
+    
+}
+.bold {
+    font-weight: bold;
+    padding: 20px;
+}
+
+    

@@ -1,0 +1,14 @@
+.content-fluid .content .content-big ul li a{
+    color: #a3d4ff;
+   
+}
+.content-fluid .content .content-big ul li a:hover{
+color: white;
+text-decoration: underline;
+}
+
+.content-fluid .content .content-big ul li {
+    list-style-type: disc;
+    padding: 7px;
+    margin-left: 45px;
+}

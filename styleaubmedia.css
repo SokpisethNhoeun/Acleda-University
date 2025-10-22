@@ -1,0 +1,14 @@
+.news-img {
+    gap: 60px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 1fr 1fr 1fr 1fr;}
+.content-fluid > .content > .content-big > .news-img > .column > a{
+    color: #a3d4ff;
+}
+.content-fluid > .content > .content-big > .news-img > .column > a:hover {
+    text-decoration: underline;
+}
+.content-fluid > .content > .content-small > ul {
+height: 230%;
+}

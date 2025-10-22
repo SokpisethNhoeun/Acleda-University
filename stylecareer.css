@@ -1,0 +1,52 @@
+.para > a{
+   color: #A9CBF1;
+}
+th {
+    background-color:   #0e1a2b;
+}
+table {
+    font-size: 14px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    border-bottom: black;
+    padding: 75px 0px;
+    
+     
+}
+table a{
+color: #A9CBF1;
+}
+table a:hover {
+    text-decoration: underline;
+}
+tr th {
+    padding: 10px;
+   
+  
+}
+tr td {
+    background-color: #1b2232;
+    padding: 10px;
+   
+}
+.content-small  {
+ height: 5%;
+    
+    
+}
+.content-fluid > .content > .content-small > div{
+    margin-top: 40px;
+    padding: 15px 0px;
+    background-color: #0e1a2b;
+    width: 75%;
+}
+
+.content-fluid > .content > .content-small > div> a {
+    color :#a3d4ff;
+   margin-left:18px ;   
+   
+}
+.content-fluid > .content > .content-small > div> a:hover {
+ text-decoration: underline;
+    }

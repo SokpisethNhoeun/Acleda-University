@@ -1,0 +1,17 @@
+.input {
+    width: 100%;
+    display: flex;
+   
+}
+
+
+.input > a:hover{
+ color: gold;
+
+}
+.content-fluid > .content  > .content-small {
+    height: 100px;
+}
+.content-fluid > .content  > .content-big {
+    height: 400px;
+}
